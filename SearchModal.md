@@ -25,3 +25,19 @@ export const light: ModalTheme = {
   background: lightColors.backgroundAlt,
 };
 ```
+
+
+## CurrencySearch
+
+```js
+  const allTokens = useAllTokens()
+   const filteredTokens = useMemo(() => {
+   }, [allTokens])
+   const sortedTokens = useMemo(() => {
+    }, [filteredTokens]) 
+   const filteredSortedTokens = sortedTokens
+   
+   
+   filteredSortedTokens?.length > 0
+   <CurrencyList
+```
