@@ -41,3 +41,5 @@ export const light: ModalTheme = {
    filteredSortedTokens?.length > 0
    <CurrencyList
 ```
+
+swap > Select a Token > Search name [filterTokens](https://github.com/pancakeswap/pancake-frontend/blob/develop/src/components/SearchModal/filtering.ts)
