@@ -14,3 +14,8 @@ export default withBundleAnalyzer(
   withVanillaExtract(withSentryConfig(withAxiom(config), sentryWebpackPluginOptions)),
 )
 ```
+
+
+## Menu
+
+web/src/components/Menu/config/config.ts
