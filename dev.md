@@ -1,5 +1,7 @@
 # web:dev
 
+chart 數據要有值 port要3000 url: `http://localhost:3000`  
+
 ## Debug
 
 > `web:dev: - error Failed to load next.config.mjs, see more info here https://nextjs.org/docs/messages/next-config-error`
